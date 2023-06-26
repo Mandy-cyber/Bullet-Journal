@@ -20,7 +20,7 @@ N.B. - the default password for a new file is **password123**
 # Why *Our* Java Journal
 > _📝Your digital bullet journal of choice... every time_
 
-Java Journal, brought to you by _the exception handlers_ is the finest in digital bullet journaling. Pinterest, meets Tumblr, meets that one cute notebook you bought at a store and have yet to open, in this novel new application. With a key eye for maximizing **`aesthetic`**, whilst simultaneously ensuring peek **`productivity`**, this Java Journal is the **only** acceptable option for your day-to-day journaling needs✨.
+Java Journal, brought to you by _the exception handlers_ is the finest in digital bullet journaling. Pinterest, meets Tumblr, meets that one cute notebook you bought at a store and have yet to open, in this novel new application. With a key eye for maximizing **`aesthetic`**, whilst simultaneously ensuring peek **`productivity`**, this Java Journal is the **only** acceptable option for your day-to-day journaling needs ✨.
 
 So what are you waiting for? Get journalling now, and see how Java Journal was built exactly with **you** in mind!
 
