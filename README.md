@@ -1,8 +1,10 @@
 # Java Journal
+> CS3500 (Object Oriented Design) Programming assignment
+
 ![Java](https://github.com/CS-3500-OOD/pa05-exception-handlers/assets/67931161/c48bb8c0-02ba-4d97-9603-f6b38dce04de)
 
 
-> N.B. - the default password for a new file is **password123**
+N.B. - the default password for a new file is **password123**
 
 ### **Table of Contents**
 
